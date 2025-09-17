@@ -77,6 +77,36 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/MSDNet.png" width="600" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">     
+    "<i>MSDNet: Efficient 4D Radar Super-Resolution via Multi-Stage Distillation</i>"<br>   
+    Minqing Huang*, Shouyi Lu*, <b>Boyuan Zheng</b>, Ziyao Li, Xiao Tang, Guirong Zhuo.<br>
+    <b> preprint 2025</b>
+    <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span>
+      <a href="https://arxiv.org/abs/2509.13149">Arxiv</a>
+    </span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/4DRadarGS.png" width="600" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">     
+    "<i>4DRadar-GS: Self-Supervised Dynamic Driving Scene Reconstruction with 4D Radar</i>"<br>   
+    Xiao Tang, Guirong Zhuo, Cong Wang, <b>Boyuan Zheng</b>, Minqing Huang, Lianqing Zheng, Long Chen, Shouyi Lu.<br>
+    <b> preprint 2025</b>
+    <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span>
+      <a href="https://arxiv.org/abs/2509.12931">Arxiv</a>
+    </span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
     <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/LPR.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     

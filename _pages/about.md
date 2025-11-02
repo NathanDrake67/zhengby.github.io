@@ -107,6 +107,21 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/survey.png" width="600" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">     
+    "<i>Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks</i>"<br>   
+    Xu Zheng, Zihao Dongfang, Lutao Jiang, <b>Boyuan Zheng</b>, Yulong Guo, Zhenquan Zhang, Giuliano Albanese, Runyi Yang, Mengjiao Ma, Zixin Zhang, Chenfei Liao, Dingcheng Zhen, Yuanhuiyi Lyu, Yuqian Fu, Bin Ren, Linfeng Zhang, Danda Pani Paudel, Nicu Sebe, Luc Van Gool, Xuming Hu.<br>
+    <b> Preprint 2025</b>
+    <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span>
+      <a href="https://arxiv.org/abs/2510.25760">Arxiv</a>
+    </span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
     <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/LPR.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     

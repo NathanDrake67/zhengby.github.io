@@ -122,6 +122,17 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/UNE.png" width="600" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">     
+    "<i>Rethinking GCNs for the Traveling Salesman Problem: Are We Encoding Effectively ?</i>"<br>   
+    Junquan Huang*, <b>Boyuan Zheng*</b>, Jungang Li, Zihao Dongfang, Song Dai, Yubo Gao, Yu Huang, Xuming Hu, Zong-Gan Chen.<br>
+    <b> Preprint 2025</b>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
     <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/LPR.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     

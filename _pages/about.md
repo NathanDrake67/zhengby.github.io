@@ -19,6 +19,7 @@ My research interests mainly focus on 3D Computer Vision, including Diffusion Mo
 
 ## 🔥News
 
+**[2025/10]**  Invited as a Reviewer for **International Conference on Robotics and Automation (ICRA)**.
 **[2025/06]**  Invited as a Reviewer for **IEEE Robotics and Automation Letters (RA-L)**.    
 **[2025/06]**  🎉 One paper on 4D radar super-resolution accepted to **IROS 2025**.        
 **[2025/04]**  Started an internship at HKUST(GZ), Guangzhou, China.    

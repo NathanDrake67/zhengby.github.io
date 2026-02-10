@@ -19,8 +19,8 @@ My research interests mainly focus on 3D Computer Vision, including Diffusion Mo
 
 ## 🔥News
 
-**[2026/01]**  🎉 MSDNet — our follow-up work on R2LDM — has been accepted to **ICRA 2026**. Congratulations to my collaborators! 
-**[2026/01]**  🎉 One paper on large-scale scene reconstruction has been accepted to **ICLR 2026**. Congratulations to my collaborators!
+**[2026/01]**  🎉 MSDNet — our follow-up work on R2LDM — has been accepted to **ICRA 2026**. Congratulations to my collaborators!      
+**[2026/01]**  🎉 One paper on large-scale scene reconstruction has been accepted to **ICLR 2026**. Congratulations to my collaborators!      
 **[2025/10]**  Invited as a Reviewer for **International Conference on Robotics and Automation (ICRA)**.    
 **[2025/06]**  Invited as a Reviewer for **IEEE Robotics and Automation Letters (RA-L)**.    
 **[2025/06]**  🎉 One paper on 4D radar super-resolution accepted to **IROS 2025**.        

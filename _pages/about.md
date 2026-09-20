@@ -10,15 +10,17 @@ redirect_from:
 
 ## 💫About Me
 
-I am currently a second-year M.S.E. student at [TJ-IP Lab](https://github.com/TJ-IPLab/) of [Tongji University](https://www.tongji.edu.cn/) and advised by [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm). Before this, I obtained the bachelor’s degree in Vehicle Engineering at Tongji University.
 
-My research interests mainly focus on 3D Computer Vision, including Diffusion Models, Simultaneous Localization And Mapping (SLAM) and Autonomous Driving. More recently, I have been exploring Multi-modal Large Models and Embodied AI.
+I am currently a first-year Ph.D. student in the Intelligent Transportation Thrust, Systems Hub, at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), where I am a member of the [OMEGA Team](https://omega-hkustgz.github.io/) under the supervision of [Prof. Xinhu Zheng](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=168).
+Before joining HKUST(GZ), I received my M.S.E. and B.E. degrees in Vehicle Engineering from [Tongji University](https://www.tongji.edu.cn/). During my master's studies, I conducted research on autonomous driving at the [TJ-IP Lab](https://github.com/TJ-IPLab/) under the supervision of [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm).
+My research interests include **World Action Models**, **Diffusion Models**, and **Multimodal Large Language Models**, with a particular focus on their applications to **Embodied AI** and **Autonomous Driving**.
 
 &nbsp;
 
 
 ## 🔥News
-
+**[2026/09]**  Began my Ph.D. studies at **HKUST(GZ)** in Guangzhou, China.    
+**[2026/06]**  🎉 4DRadarGS has been accepted to **IROS 2026**. Congratulations to my collaborators!  
 **[2026/01]**  🎉 MSDNet — our follow-up work on R2LDM — has been accepted to **ICRA 2026**. Congratulations to my collaborators!    
 **[2026/01]**  🎉 One paper on large-scale scene reconstruction has been accepted to **ICLR 2026**. Congratulations to my collaborators!    
 **[2025/10]**  Invited as a Reviewer for **International Conference on Robotics and Automation (ICRA)**.    
@@ -100,7 +102,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
   <td style="border-collapse: collapse; border: none;">     
     "<i>4DRadar-GS: Self-Supervised Dynamic Driving Scene Reconstruction with 4D Radar</i>"<br>   
     Xiao Tang, Guirong Zhuo, Cong Wang, <b>Boyuan Zheng</b>, Minqing Huang, Lianqing Zheng, Long Chen, Shouyi Lu.<br>
-    <b> Preprint 2025</b>
+    <b> IROS 2026</b>
     <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span>
       <a href="https://arxiv.org/abs/2509.12931">Arxiv</a>
@@ -134,6 +136,17 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
   </td>
 </tr>
 
+<tr style="border-collapse: separate; border-spacing: none;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/SIG.png" width="600" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    "<i>Signal Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction</i>"<br>
+    Weiyi Xue, Fan Lu, Chi Zhang, Tianhang Wang, Sanqing Qu, Zehan Zheng, <b>Boyuan Zheng</b>, Junqiao Zhao, Guang Chen.<br>
+    <b>ICLR 2026</b>
+  </td>
+</tr>
+
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
     <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/LPR.png" width="600" />
@@ -155,12 +168,19 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 
 
 ## 💻Research Experience
-- July 2023 - Present  
+
+- September 2026 - Present  
+  **Ph.D. Student** - **[OMEGA Team](https://omega-hkustgz.github.io/), The Hong Kong University of Science and Technology (Guangzhou)**  
+  Advisor: [Prof. Xinhu Zheng](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=168)  
+  Research interests: World Action Models, Multimodal Large Language Models, Embodied AI and Autonomous Driving
+
+
+- July 2023 - June 2026  
   **Research Assistant** - **Tongji Integrated Positioning Lab ([TJ-IP Lab](https://github.com/TJ-IPLab/)), Tongji University**  
-  Advisor: [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm) and [Prof. Guirong Zhuo](https://auto.tongji.edu.cn/info/1180/6595.htm)         
+  Advisor: [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm)     
   Research included: Diffusion Models, LiDAR SLAM, 4D Radar Perception and Super-Resolution
 
-- April 2025 - Present  
+- April 2025 - September 2025  
   **Research Intern** - **NLP-MM Group, HKUST(GZ)**  
   Advisor: [Prof. Xuming Hu](https://xuminghu.github.io/) and [Dr. Xu Zheng](https://zhengxujosh.github.io/)    
   Research included: MLLMs, Embodied AI, Multimodal Spatial Reasoning 

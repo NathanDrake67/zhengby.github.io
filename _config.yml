@@ -26,10 +26,10 @@ author:
   name             : "Boyuan Zheng"
   pronouns         : # example: "she/her"  
   bio              : " "
-  location         : "Shanghai, China"
-  employer         : "Tongji University"
-  uri              : "https://www.tongji.edu.cn/"
-  email            : "2332885@tongji.edu.cn" 
+  location         : "Guangzhou, China"
+  employer         : "HKUST(GZ)"
+  uri              : "https://www.hkust-gz.edu.cn/"
+  email            : "bzheng029@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   academia         : # URL
